@@ -1,3 +1,8 @@
+## 📸 Example Output
+
+![Output Example](Screenshot%202025-08-28%20183553.png)
+
+
 # Real-Time Object & Face Detection with Distance Estimation
 
 This project demonstrates **real-time object detection, face detection, and distance estimation** using OpenCV, Haarcascade, and SSD MobileNet v3.  
